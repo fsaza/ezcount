@@ -11,3 +11,5 @@ ezcount v0.1用来求解密码学以及算法的灵活工具
 
 
 <img width="508" alt="Screenshot 2023-10-14 003238" src="https://github.com/fsaza/ezcount/assets/90552883/9868dd04-5b32-4123-a2b6-5f9a824da55e">
+
+欢迎任何人提出建议/改进代码
